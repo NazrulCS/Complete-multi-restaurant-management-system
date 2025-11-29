@@ -1,4 +1,4 @@
-# Multi-Restaurant Management System
+# Multi-Restaurant Management System and Online Food Ordering
 
 This project is an attempt at a complete **multi-restaurant management system** that deals with adding and managing multiple restaurants, overseeing their individual food items, incomes, orders, and more. It also includes the usual features of an online food portal for users.
 
